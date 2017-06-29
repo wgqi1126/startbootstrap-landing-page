@@ -1,0 +1,24 @@
+{
+  "name": "startbootstrap-landing-page",
+  "version": "3.3.7",
+  "description": "Landing Page is a multipurpose landing page template for Bootstrap created by Start Bootstrap.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgqi1126/startbootstrap-landing-page.git"
+  },
+  "keywords": [
+    "startbootstrap",
+    "landing",
+    "page"
+  ],
+  "author": "BlackrockDigital/startbootstrap-landing-page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wgqi1126/startbootstrap-landing-page/issues"
+  },
+  "homepage": "https://github.com/wgqi1126/startbootstrap-landing-page#readme"
+}
